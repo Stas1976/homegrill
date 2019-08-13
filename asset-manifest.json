@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "Stas1976.github.io/homegrill/static/css/main.bad865e1.chunk.css",
-    "main.js": "Stas1976.github.io/homegrill/static/js/main.75965eae.chunk.js",
-    "main.js.map": "Stas1976.github.io/homegrill/static/js/main.75965eae.chunk.js.map",
-    "runtime~main.js": "Stas1976.github.io/homegrill/static/js/runtime~main.e99ab132.js",
-    "runtime~main.js.map": "Stas1976.github.io/homegrill/static/js/runtime~main.e99ab132.js.map",
-    "static/js/2.3a1e131d.chunk.js": "Stas1976.github.io/homegrill/static/js/2.3a1e131d.chunk.js",
-    "static/js/2.3a1e131d.chunk.js.map": "Stas1976.github.io/homegrill/static/js/2.3a1e131d.chunk.js.map",
-    "index.html": "Stas1976.github.io/homegrill/index.html",
-    "precache-manifest.d01efc04332402c571214eca9cd972ac.js": "Stas1976.github.io/homegrill/precache-manifest.d01efc04332402c571214eca9cd972ac.js",
-    "service-worker.js": "Stas1976.github.io/homegrill/service-worker.js",
-    "static/css/main.bad865e1.chunk.css.map": "Stas1976.github.io/homegrill/static/css/main.bad865e1.chunk.css.map",
-    "static/media/cake.png": "Stas1976.github.io/homegrill/static/media/cake.12d7c29c.png",
-    "static/media/drinks.png": "Stas1976.github.io/homegrill/static/media/drinks.d5055ab8.png",
-    "static/media/main_dish.png": "Stas1976.github.io/homegrill/static/media/main_dish.ad7538d1.png",
-    "static/media/special.png": "Stas1976.github.io/homegrill/static/media/special.f5125271.png"
+    "main.css": "/homegrill/static/css/main.bad865e1.chunk.css",
+    "main.js": "/homegrill/static/js/main.75965eae.chunk.js",
+    "main.js.map": "/homegrill/static/js/main.75965eae.chunk.js.map",
+    "runtime~main.js": "/homegrill/static/js/runtime~main.ad12b7c8.js",
+    "runtime~main.js.map": "/homegrill/static/js/runtime~main.ad12b7c8.js.map",
+    "static/js/2.3a1e131d.chunk.js": "/homegrill/static/js/2.3a1e131d.chunk.js",
+    "static/js/2.3a1e131d.chunk.js.map": "/homegrill/static/js/2.3a1e131d.chunk.js.map",
+    "index.html": "/homegrill/index.html",
+    "precache-manifest.b351fa1144a76107cad6111490363bb1.js": "/homegrill/precache-manifest.b351fa1144a76107cad6111490363bb1.js",
+    "service-worker.js": "/homegrill/service-worker.js",
+    "static/css/main.bad865e1.chunk.css.map": "/homegrill/static/css/main.bad865e1.chunk.css.map",
+    "static/media/cake.png": "/homegrill/static/media/cake.12d7c29c.png",
+    "static/media/drinks.png": "/homegrill/static/media/drinks.d5055ab8.png",
+    "static/media/main_dish.png": "/homegrill/static/media/main_dish.ad7538d1.png",
+    "static/media/special.png": "/homegrill/static/media/special.f5125271.png"
   }
 }
