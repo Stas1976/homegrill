@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/homegrill/precache-manifest.b351fa1144a76107cad6111490363bb1.js"
+  "/homegrill/precache-manifest.23f3586647fcc6a93a0bf1ba05da8bbb.js"
 );
 
 self.addEventListener('message', (event) => {
